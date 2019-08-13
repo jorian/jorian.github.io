@@ -1,2 +1,5 @@
 theme: jekyll-theme-hacker
 title: jorian.xyz
+gem "github-pages", group: :jekyll_plugins
+
+show_downloads: false
